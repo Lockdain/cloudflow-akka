@@ -1,0 +1,1 @@
+ThisBuild / cloudflowDockerRegistry := Some("lightbend")

@@ -1,0 +1,8 @@
+# Project exclude paths
+/datamodel/target/scala-2.12/classes/
+/datamodel/target/streams/
+/ingress/target/streams/
+/pipeline/target/streams/
+/project/project/target/
+/project/target/
+/target/streams/

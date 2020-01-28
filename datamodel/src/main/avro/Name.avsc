@@ -1,0 +1,13 @@
+{
+    "namespace": "ru.neoflex.cloudflow.training.vtb",
+    "type": "record",
+    "name": "Name",
+    "doc": "Name",
+    "fields": [
+        {
+            "name": "name",
+            "type": "string",
+            "doc": "Name"
+        }
+    ]
+}
